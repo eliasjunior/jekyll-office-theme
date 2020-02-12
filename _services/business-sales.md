@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Wills and Administration of Estates'
 image: '/services/default.png'
 ---
 

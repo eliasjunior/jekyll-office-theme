@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Personal Injuries Claims'
 image: '/services/default.png'
 ---
 
